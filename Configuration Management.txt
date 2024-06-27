@@ -1,1 +1,9 @@
 #Working with git and github
+#This line of codes helps you get access to all gits commands
+git --help
+
+#How to use git commands 
+1. To clone a Repo
+git clone <Name of the repo to clone>
+#we can also used linus based syntax with the terminal that comes with gits
+
